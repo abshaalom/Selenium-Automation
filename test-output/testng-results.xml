@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T13:00:22 IST" name="Default suite" finished-at="2024-09-25T13:00:29 IST" duration-ms="6304">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T13:00:22 IST" name="Default test" finished-at="2024-09-25T13:00:29 IST" duration-ms="6304">
+      <class name="testpkg.Createpagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.Createpagetest@202b0582]" started-at="2024-09-25T13:00:22 IST" name="setup" finished-at="2024-09-25T13:00:26 IST" duration-ms="3735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:testpkg.Createpagetest@202b0582]" started-at="2024-09-25T13:00:26 IST" name="test" finished-at="2024-09-25T13:00:29 IST" duration-ms="2540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testpkg.Createpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
